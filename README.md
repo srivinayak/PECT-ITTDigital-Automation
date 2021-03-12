@@ -20,7 +20,7 @@ PyCharm 2020.3.3 CE
 
 PECT-TA.zip
 
-extracted the archive to D:\PyTestWorkspace
+extract the archive to D:\PyTestWorkspace
 
 pip install requirements.txt
 
