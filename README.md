@@ -22,5 +22,7 @@ PECT-TA.zip
 
 extract the archive to D:\PyTestWorkspace
 
+create a Virtual Enivironment "venv"
+
 pip install requirements.txt
 
